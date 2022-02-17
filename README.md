@@ -1,4 +1,4 @@
-# statista_task
+# How to execute statista_task
 1. clone the project using https://github.com/dimuthus/statista_task.git
 
 2. change to the folder statista_task
